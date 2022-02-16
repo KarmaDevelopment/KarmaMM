@@ -3,4 +3,4 @@ Earn money killing mobs!
 
 Links:
 - Discord: https://discord.io/karmadev
-- SpigotMC: https://www.spigotmc.org/resources/karma-mobmoney.100040/
+- SpigotMC: https://www.spigotmc.org/resources/karma-mobmoney-legacy.100040/
