@@ -1,0 +1,94 @@
+#######################################
+#            KarmaMobMoney            #
+#    Earn money from killing mobs!    #
+#######################################
+
+ReloadMessage: "&aConfig reloaded."
+NoPermission: "&cYou don't have the permission to do this!"
+RewardMessage: "&4&lKarmaMM &c| &7You earned &e%money%$ &7for defeating a &e%entity%&7!"
+
+# Rewards
+# Put -1 to disable.
+SquidReward: 5.0
+PigReward: 10.0
+SheepReward: 10.0
+CowReward: 10.0
+ChickenReward: 10.0
+MushroomReward: 20.0
+FoxReward: 20.0
+ZombieReward: 30.0
+ZombieVillagerReward: 50.0
+HuskReward: 50.0
+SpiderReward: 30.0
+CaveSpiderReward: 70.0
+SkeletonReward: 30.0
+StrayReward: 30.0
+WitchReward: 100.0
+CreeperReward: 40.0
+PillagerReward: 500.0
+EvokerReward: 1000.0
+VexReward: 100.0
+RavagerReward: 500.0
+SlimeReward: 20.0
+IronGolemReward: 120.0
+MagmaReward: 20.0
+BlazeReward: 80.0
+WitherSkeletonReward: 100.0
+GhastReward: 300.0
+WitherReward: 1500.0
+SilverfishReward: 30.0
+EndermiteReward: 40.0
+EndermanReward: 50.0
+ShulkerReward: 300.0
+EnderDragonReward: 10000.0
+PlayerReward: 1000.0
+
+# Local translations for monsters' names.
+Squid: "Squid"
+Pig: "Pig"
+Sheep: "Sheep"
+Cow: "Cow"
+Chicken: "Chicken"
+Mushroom: "Mushroom"
+Fox: "Fox"
+Zombie: "Zombie"
+ZombieVillage: "Zombie Villager"
+Husk: "Husk"
+Spider: "Spider"
+CaveSpider: "Cave Spider"
+Skeleton: "Skeleton"
+Stray: "Stray"
+Witch: "Witch"
+Creeper: "Creeper"
+Pillager: "Pillager"
+Evoker: "Evoker"
+Vex: "Vex"
+Ravager: "Ravager"
+Slime: "Slime"
+Magma: "Magma"
+Blaze: "Blaze"
+WitherSkeleton: "Wither Skeleton"
+Ghast: "Ghast"
+Wither: "Wither"
+IronGolem: "Iron Golem"
+Silverfish: "Silverfish"
+Endermite: "Endermite"
+Enderman: "Enderman"
+Shulker: "Shulker"
+EnderDragon: "Ender Dragon"
+Player: "Player: %player%"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

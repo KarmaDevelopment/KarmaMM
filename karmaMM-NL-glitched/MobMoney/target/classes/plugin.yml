@@ -1,0 +1,10 @@
+name: KarmaMM
+version: '0.2'
+main: karmadev.mcpl.karmamm.nlkarmamm.NLKarmaMM
+api-version: 1.18
+depend: [ Vault ]
+authors: [ KarmaDev ]
+description: Causes the mobs to drop money when killed by players.
+commands:
+  kmmreload:
+    aliases: []
